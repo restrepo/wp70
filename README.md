@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# One-column full-width responsive layout
 
-You can use the [editor on GitHub](https://github.com/restrepo/restrepo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[One-column full-width responsive layout](https://github.com/russmaxdesign/example-layout-one-full) is a basic responsive HTML template.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## File structure
 
-### Markdown
+[One-column full-width responsive layout](https://github.com/russmaxdesign/example-layout-one-full) uses the following file structure:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	assets/
+		css/
+			styles.css
+		img/
+			apple-touch-icon.png
+	favicon.ico
+	index.html
+	licence.md
+	readme.md
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/restrepo/restrepo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[One-column full-width responsive layout](https://github.com/russmaxdesign/example-layout-one-full) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
